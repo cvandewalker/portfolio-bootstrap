@@ -1,0 +1,81 @@
+html, body {
+    height: 100%;
+}
+
+
+div h3 {
+    text-align: center;
+    color: #555;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.card-body {
+    background-color: #212529;
+    text-align: center;
+    color: white;
+}
+
+#fbottom {
+    
+    margin-top: 300px;
+}
+.portfolio-container {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#ccontainer {
+    margin-top: 100px;
+}
+form label {
+    font-size: 25px;
+    font-weight: bolder;
+    color: #007bff;
+}
+
+form 
+div
+input{
+    margin-bottom: 3em;
+} 
+
+form textarea{
+    margin-bottom: 3em;
+}
+
+
+
+body {
+    background-image: url(../images/dark-computer.jpg);
+    background-size: cover;
+    background-position: center;
+  
+    margin-top: 0px;
+}
+
+.about-header{
+    border-bottom: solid #555 3px;
+    padding-bottom: 10px;
+    font-size: 3em;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.about-container{
+    background-color: #fff;
+    margin-top: 100px;
+}
+
+.about-content
+ img{
+    width: 300px;
+    float: left;
+    margin: 0px 30px 20px 0px;
+}
+
+.about-content{
+    
+}
+
+.about-content p{
+    
+}
